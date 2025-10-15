@@ -13,6 +13,10 @@ http=103.127.250.158:3443, over-tls=true, tls-verification=false, fast-open=fals
 http=103.127.250.158:5443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-ADC)
 http=185.232.92.69:3306, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-VirtualServer)
 http=202.150.165.81:443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇮🇩印尼-雅加達(住宅)
+http=38.47.52.216:8098, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇯🇵日本-東京(住宅)
+http=47.245.26.177:443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇯🇵日本-東京(商企-Aliyun)
+http=43.128.238.217:4430, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇯🇵日本-東京(商企-Tencent)
+http=140.83.51.93:443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇯🇵日本-大阪(商企-Oracle)
 
  vless=46.3.44.249:19959, method=none, password=67e631dd-9566-457f-82f1-9a06cafa6dc8, obfs=wss, obfs-host=022335.xyz, obfs-uri=/?mode=s5&s5=123:123@91.208.73.223:20000, tls-verification=false, fast-open=false, udp-relay=false, tag=香港🇭🇰
 
