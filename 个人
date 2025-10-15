@@ -16,8 +16,7 @@ http=202.150.165.81:443, over-tls=true, tls-verification=false, fast-open=false,
 http=38.47.52.216:8098, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇯🇵日本-東京(住宅)
 http=47.245.26.177:443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇯🇵日本-東京(商企-Aliyun)
 
-vless=46.3.44.249:19959, method=none, password=67e631dd-9566-457f-82f1-9a06cafa6dc8, obfs=wss, obfs-host=022335.xyz, obfs-uri=/?mode=s5&s5=123:123@91.208.73.223:20000, tls-verification=false, fast-open=false, udp-relay=false, tag=香港🇭🇰
-
+vless://67e631dd-9566-457f-82f1-9a06cafa6dc8@46.3.44.249:19959?encryption=none&security=tls&sni=022335.xyz&allowInsecure=1&type=ws&host=022335.xyz&path=%2F%3Fmode%3Ds5%26s5%3D123%3A123%4091.208.73.223%3A20000#%E9%A6%99%E6%B8%AF%20%F0%9F%87%AD%F0%9F%87%B0
 vless://c2f8a1e7-9d34-4b2f-86a1-7e5d3c2b1f90@183.240.180.28:8080?encryption=none&security=none&type=tcp&headerType=none#%E5%AE%9D-TW-%E5%89%8D%E7%BD%AE
 anytls://6f05c238-122f-42ba-8de9-8285236287f8@159.54.165.141:8891?security=tls&allowInsecure=1&type=tcp#%E9%BE%9F%E5%A3%B3-%E7%BE%8E%E5%9B%BD-159.54.165.141%20anytls
 anytls://6f05c238-122f-42ba-8de9-8285236287f8@159.54.165.141:8891?security=tls&fp=chrome&allowInsecure=1&type=tcp#%E9%BE%9F%E5%A3%B3-%E7%BE%8E%E5%9B%BD-159.54.165.141%20anytls
