@@ -12,6 +12,11 @@ http=103.127.250.158:1443, over-tls=true, tls-verification=false, fast-open=fals
 http=103.127.250.158:3443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-ADC)
 http=103.127.250.158:5443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-ADC)
 http=185.232.92.69:3306, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-VirtualServer)
+http=115.133.236.116:8009, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇲🇾馬來西亞-吉隆坡(住宅)
+http=210.48.154.99:443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇲🇾馬來西亞-吉隆坡(商企-TM VADS)
+http=202.75.55.100:443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇲🇾馬來西亞-吉隆坡(商企-TM VADS)
+http=202.150.165.81:443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇮🇩印尼-雅加達(住宅)
+http=103.24.13.33:443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇮🇩印尼-雅加達(商企-Cyberindo)
 
 
 vless://c2f8a1e7-9d34-4b2f-86a1-7e5d3c2b1f90@183.240.180.28:8080?encryption=none&security=none&type=tcp&headerType=none#%E5%AE%9D-TW-%E5%89%8D%E7%BD%AE
