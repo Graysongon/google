@@ -2,19 +2,13 @@ http=1.34.42.227:443, over-tls=true, tls-verification=false, fast-open=false, ud
 http=220.134.146.88:443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇨🇳台灣-新竹
 http=58.64.216.29:443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(住宅)
 http=124.244.86.40:443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(住宅)
-http=8.210.62.41:443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-Aliyun)
 http=43.155.94.8:2000, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-Tencent)
 http=47.240.13.101:5443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-Aliyun)
 http=38.207.184.12:443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-Vmiss)
-http=156.236.75.66:8005, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-YisuCloud)
-http=45.78.45.232:443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-It7)
-http=103.127.250.158:1443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-ADC)
 http=103.127.250.158:3443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-ADC)
 http=103.127.250.158:5443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-ADC)
 http=185.232.92.69:3306, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-VirtualServer)
-http=202.150.165.81:443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇮🇩印尼-雅加達(住宅)
 http=38.47.52.216:8098, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇯🇵日本-東京(住宅)
-http=47.245.26.177:443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇯🇵日本-東京(商企-Aliyun)
 
 vless://c2f8a1e7-9d34-4b2f-86a1-7e5d3c2b1f90@183.240.180.28:8080?encryption=none&security=none&type=tcp&headerType=none#%E5%AE%9D-TW-%E5%89%8D%E7%BD%AE
 anytls://6f05c238-122f-42ba-8de9-8285236287f8@159.54.165.141:8891?security=tls&allowInsecure=1&type=tcp#%E9%BE%9F%E5%A3%B3-%E7%BE%8E%E5%9B%BD-159.54.165.141%20anytls
