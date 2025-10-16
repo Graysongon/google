@@ -1,12 +1,12 @@
-http=1.34.42.227:443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇨🇳台灣-台北
-http=220.134.146.88:443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇨🇳台灣-新竹
-http=58.64.216.29:443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(住宅)
-http=43.155.94.8:2000, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-Tencent)
-http=38.207.184.12:443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-Vmiss)
-http=103.127.250.158:3443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-ADC)
-http=103.127.250.158:5443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-ADC)
-http=185.232.92.69:3306, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-VirtualServer)
-http=38.47.52.216:8098, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇯🇵日本-東京(住宅)
+vless://67e631dd-9566-457f-82f1-9a06cafa6dc8@46.3.104.69:16696?encryption=none&security=tls&sni=022335.xyz&fp=random&allowInsecure=1&type=ws&host=022335.xyz&path=%2Fhttp%3A%2F%2F1.34.42.227%3A443#%F0%9F%87%A8%F0%9F%87%B3%E5%8F%B0%E7%81%A3-%E5%8F%B0%E5%8C%97
+vless://67e631dd-9566-457f-82f1-9a06cafa6dc8@46.3.104.69:16696?encryption=none&security=tls&sni=022335.xyz&fp=random&allowInsecure=1&type=ws&host=022335.xyz&path=%2Fhttp%3A%2F%2F220.134.146.88%3A443#%F0%9F%87%A8%F0%9F%87%B3%E5%8F%B0%E7%81%A3-%E6%96%B0%E7%AB%B9
+vless://67e631dd-9566-457f-82f1-9a06cafa6dc8@46.3.104.69:16696?encryption=none&security=tls&sni=022335.xyz&fp=random&allowInsecure=1&type=ws&host=022335.xyz&path=%2Fhttp%3A%2F%2F58.64.216.29%3A443#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF-%E4%B8%AD%E8%A5%BF%E5%8D%80%28%E4%BD%8F%E5%AE%85%29
+vless://67e631dd-9566-457f-82f1-9a06cafa6dc8@46.3.104.69:16696?encryption=none&security=tls&sni=022335.xyz&fp=random&allowInsecure=1&type=ws&host=022335.xyz&path=%2Fhttp%3A%2F%2F43.155.94.8%3A2000#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF-%E4%B8%AD%E8%A5%BF%E5%8D%80%28%E5%95%86%E4%BC%81-Tencent%29
+vless://67e631dd-9566-457f-82f1-9a06cafa6dc8@46.3.104.69:16696?encryption=none&security=tls&sni=022335.xyz&fp=random&allowInsecure=1&type=ws&host=022335.xyz&path=%2Fhttp%3A%2F%2F38.207.184.12%3A443#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF-%E4%B8%AD%E8%A5%BF%E5%8D%80%28%E5%95%86%E4%BC%81-Vmiss%29
+vless://67e631dd-9566-457f-82f1-9a06cafa6dc8@46.3.104.69:16696?encryption=none&security=tls&sni=022335.xyz&fp=random&allowInsecure=1&type=ws&host=022335.xyz&path=%2Fhttp%3A%2F%2F103.127.250.158%3A3443#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF-%E4%B8%AD%E8%A5%BF%E5%8D%80%28%E5%95%86%E4%BC%81-ADC%29
+vless://67e631dd-9566-457f-82f1-9a06cafa6dc8@46.3.104.69:16696?encryption=none&security=tls&sni=022335.xyz&fp=random&allowInsecure=1&type=ws&host=022335.xyz&path=%2Fhttp%3A%2F%2F103.127.250.158%3A5443#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF-%E4%B8%AD%E8%A5%BF%E5%8D%80%28%E5%95%86%E4%BC%81-ADC%29
+vless://67e631dd-9566-457f-82f1-9a06cafa6dc8@46.3.104.69:16696?encryption=none&security=tls&sni=022335.xyz&fp=random&allowInsecure=1&type=ws&host=022335.xyz&path=%2Fhttp%3A%2F%2F185.232.92.69%3A3306#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF-%E4%B8%AD%E8%A5%BF%E5%8D%80%28%E5%95%86%E4%BC%81-VirtualServer%29
+vless://67e631dd-9566-457f-82f1-9a06cafa6dc8@46.3.104.69:16696?encryption=none&security=tls&sni=022335.xyz&fp=random&allowInsecure=1&type=ws&host=022335.xyz&path=%2Fhttp%3A%2F%2F38.47.52.216%3A8098#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC-%E6%9D%B1%E4%BA%AC%28%E4%BD%8F%E5%AE%85%29
 
 vless://c2f8a1e7-9d34-4b2f-86a1-7e5d3c2b1f90@183.240.180.28:8080?encryption=none&security=none&type=tcp&headerType=none#%E5%AE%9D-TW-%E5%89%8D%E7%BD%AE
 anytls://6f05c238-122f-42ba-8de9-8285236287f8@159.54.165.141:8891?security=tls&allowInsecure=1&type=tcp#%E9%BE%9F%E5%A3%B3-%E7%BE%8E%E5%9B%BD-159.54.165.141%20anytls
