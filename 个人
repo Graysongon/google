@@ -3,6 +3,8 @@ http=220.134.146.88:443, over-tls=true, tls-verification=false, fast-open=false,
 http=43.155.94.8:2000, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-Tencent)
 http=103.127.250.158:3443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-ADC)
 http=185.232.92.69:3306, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-VirtualServer)
+socks://MTIzNDU2OjEyMzQ1Ng%3D%3D@8.210.245.62:1080#%E9%A6%99%E6%B8%AF
+socks://MTox@140.238.34.80:7777#%E6%97%A5%E6%9C%AC
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGQVx1RDgzQ1x1RERGOCDnvo7lm71G5pSv5oyB5YWN5rWBIiwNCiAgImFkZCI6ICI2Ni45My41LjE4IiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiZTA1YTVlM2QtN2Y2ZC00MmExLWIyMmQtYWQ3ZjFlMjA1MDczIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJodHRwIiwNCiAgImhvc3QiOiAidHJ1ZSIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 vless://c2f8a1e7-9d34-4b2f-86a1-7e5d3c2b1f90@183.240.180.28:8080?encryption=none&security=none&type=tcp&headerType=none#%E5%AE%9D-TW-%E5%89%8D%E7%BD%AE
