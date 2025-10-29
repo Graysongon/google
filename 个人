@@ -4,10 +4,6 @@ http=43.155.94.8:2000, over-tls=true, tls-verification=false, fast-open=false, u
 http=103.127.250.158:3443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-ADC)
 http=185.232.92.69:3306, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-VirtualServer)
 
-socks5=8.210.245.62:1080, username=123456, password=123456, fast-open=false, udp-relay=false, tag=香港
-socks5=140.238.34.80:7777, username=1, password=1, fast-open=false, udp-relay=false, tag=日本
-
-trojan://F89EAAC1-D0B0-5C6F-10CE-1B97CF0D814E@103.85.87.132:10111?security=tls&sni=m.ctrip.com&allowInsecure=1&type=tcp&headerType=none#%E9%A6%99%E6%B8%AF
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGQVx1RDgzQ1x1RERGOCDnvo7lm71G5pSv5oyB5YWN5rWBIiwNCiAgImFkZCI6ICI2Ni45My41LjE4IiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiZTA1YTVlM2QtN2Y2ZC00MmExLWIyMmQtYWQ3ZjFlMjA1MDczIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJodHRwIiwNCiAgImhvc3QiOiAidHJ1ZSIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 vless://c2f8a1e7-9d34-4b2f-86a1-7e5d3c2b1f90@183.240.180.28:8080?encryption=none&security=none&type=tcp&headerType=none#%E5%AE%9D-TW-%E5%89%8D%E7%BD%AE
 vless://57c4c616-dbf3-40bb-bed9-8704768b810f@170.9.63.232:3035?encryption=none&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=LTZdVHljdizTplog-eBc0YxAp91ul9DWX4E_HkuNFlg&allowInsecure=1&type=xhttp&path=%2F&mode=auto#%E9%BE%9F%E5%A3%B3%20%E7%BE%8E%E5%9B%BD%20US-Oracle_Corporation
