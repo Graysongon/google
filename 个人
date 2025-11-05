@@ -1,6 +1,5 @@
 http=1.34.42.227:443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇨🇳台灣-台北
 http=220.134.146.88:443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇨🇳台灣-新竹
-http=43.155.94.8:2000, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-Tencent)
 http=103.127.250.158:3443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-ADC)
 http=185.232.92.69:3306, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-VirtualServer)
 
