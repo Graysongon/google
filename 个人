@@ -1,12 +1,4 @@
-http=59.127.212.110:4431, fast-open=false, udp-relay=false, tag=🇨🇳 台湾-高雄 [住宅]
-http=115.114.77.133:9090, fast-open=false, udp-relay=false, tag=🇮🇳 印度-金奈 [住宅]
-http=49.234.19.78:8686, fast-open=false, udp-relay=false, tag=🇨🇳 中国-上海(腾讯) [商企]
 http=208.180.238.40:3390, fast-open=false, udp-relay=false, tag=🇺🇸 美国-德州 [住宅]
-http=47.109.190.227:12121, fast-open=false, udp-relay=false, tag=🇨🇳 中国-成都(阿里) [商企]
-http=49.235.159.94:5051, fast-open=false, udp-relay=false, tag=🇨🇳 中国-上海(腾讯) [商企]
-http=175.178.55.88:8899, fast-open=false, udp-relay=false, tag=🇨🇳 中国-广州(腾讯) [商企]
-http=124.222.191.140:28080, fast-open=false, udp-relay=false, tag=🇨🇳 中国-上海(腾讯) [商企]
-
 http=1.34.42.227:443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇨🇳台灣-台北
 http=220.134.146.88:443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇨🇳台灣-新竹
 http=103.127.250.158:3443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-ADC)
