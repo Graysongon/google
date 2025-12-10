@@ -2,6 +2,7 @@ http=208.180.238.40:3390, fast-open=false, udp-relay=false, tag=🇺🇸 美国-
 http=1.34.42.227:443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇨🇳台灣-台北
 http=220.134.146.88:443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇨🇳台灣-新竹
 http=103.127.250.158:3443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-ADC)
+socks5=38.47.105.32:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
 
 vless://1549a96f-aee4-41ef-b68a-f41497bf2716@cf.877774.xyz:443?encryption=none&security=tls&sni=column-makeup-liability-type.trycloudflare.com&fp=chrome&allowInsecure=1&type=ws&host=column-makeup-liability-type.trycloudflare.com&path=%2Fvless-argo%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%B3Sevalla-TW-Google_LLC
 trojan://1549a96f-aee4-41ef-b68a-f41497bf2716@14.215.25.250:18080?security=tls&sni=column-makeup-liability-type.trycloudflare.com&fp=chrome&allowInsecure=1&type=ws&host=column-makeup-liability-type.trycloudflare.com&path=%2Ftrojan-argo%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%B3Sevalla-TW-Google_LLC
