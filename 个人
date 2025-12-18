@@ -3,6 +3,7 @@ http=1.34.42.227:443, over-tls=true, tls-verification=false, fast-open=false, ud
 http=220.134.146.88:443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇨🇳台灣-新竹
 http=103.127.250.158:3443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-ADC)
 socks5=38.47.105.32:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
+socks5=177.10.66.14:1080, fast-open=false, udp-relay=false, tag=🇧🇷 巴西-南里奥格兰德州 [家宽]
 
 vless://1549a96f-aee4-41ef-b68a-f41497bf2716@cf.877774.xyz:443?encryption=none&security=tls&sni=fame-instructional-larger-taxation.trycloudflare.com&fp=chrome&allowInsecure=1&type=ws&host=fame-instructional-larger-taxation.trycloudflare.com&path=%2Fvless-argo%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%B3Sevalla-TW-Google_LLC
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERFOFx1RDgzQ1x1RERGM1NldmFsbGEtVFctR29vZ2xlX0xMQyIsDQogICJhZGQiOiAiMTQuMjE1LjI1LjI1MCIsDQogICJwb3J0IjogIjE4MDgwIiwNCiAgImlkIjogIjE1NDlhOTZmLWFlZTQtNDFlZi1iNjhhLWY0MTQ5N2JmMjcxNiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAibm9uZSIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZmFtZS1pbnN0cnVjdGlvbmFsLWxhcmdlci10YXhhdGlvbi50cnljbG91ZGZsYXJlLmNvbSIsDQogICJwYXRoIjogIi92bWVzcy1hcmdvP2VkPTI1NjAiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiZmFtZS1pbnN0cnVjdGlvbmFsLWxhcmdlci10YXhhdGlvbi50cnljbG91ZGZsYXJlLmNvbSIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICJjaHJvbWUiDQp9
