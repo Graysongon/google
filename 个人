@@ -1,9 +1,3 @@
-http=208.180.238.40:3390, fast-open=false, udp-relay=false, tag=🇺🇸 美国-德州 [住宅]
-http=1.34.42.227:443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇨🇳台灣-台北
-http=220.134.146.88:443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇨🇳台灣-新竹
-http=103.127.250.158:3443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-ADC)
-socks5=38.47.105.32:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
-
 vless://1549a96f-aee4-41ef-b68a-f41497bf2716@cf.877774.xyz:443?encryption=none&security=tls&sni=search-shoulder-assigned-cite.trycloudflare.com&fp=chrome&allowInsecure=1&type=ws&host=search-shoulder-assigned-cite.trycloudflare.com&path=%2Fvless-argo%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%B3Sevalla-TW-Google_LLC
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERFOFx1RDgzQ1x1RERGM1NldmFsbGEtVFctR29vZ2xlX0xMQyIsDQogICJhZGQiOiAiY2YuODc3Nzc0Lnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIxNTQ5YTk2Zi1hZWU0LTQxZWYtYjY4YS1mNDE0OTdiZjI3MTYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogIm5vbmUiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInNlYXJjaC1zaG91bGRlci1hc3NpZ25lZC1jaXRlLnRyeWNsb3VkZmxhcmUuY29tIiwNCiAgInBhdGgiOiAiL3ZtZXNzLWFyZ28/ZWQ9MjU2MCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJzZWFyY2gtc2hvdWxkZXItYXNzaWduZWQtY2l0ZS50cnljbG91ZGZsYXJlLmNvbSIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICJjaHJvbWUiDQp9
 trojan://1549a96f-aee4-41ef-b68a-f41497bf2716@cf.877774.xyz:443?security=tls&sni=search-shoulder-assigned-cite.trycloudflare.com&fp=chrome&allowInsecure=1&type=ws&host=search-shoulder-assigned-cite.trycloudflare.com&path=%2Ftrojan-argo%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%B3Sevalla-TW-Google_LLC
