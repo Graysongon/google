@@ -51,7 +51,7 @@ http=124.156.217.4:6006, fast-open=false, udp-relay=false, tag=🇯🇵 日本-�
 http=38.95.76.79:6005, fast-open=false, udp-relay=false, tag=🇺🇸 美国-洛杉矶(Netlab) [商企]
 http=38.95.77.16:6005, fast-open=false, udp-relay=false, tag=🇺🇸 美国-洛杉矶(Netlab) [商企]
 http=154.12.59.102:6005, fast-open=false, udp-relay=false, tag=🇺🇸 美国-洛杉矶(Netlab) [商企]
-http=38.55.104.8:6005, fast-open=false, udp-relay=false, tag=🇺🇸 🇭🇰 香港 [商企]
+http=38.55.104.8:6005, fast-open=false, udp-relay=false, tag=🇭🇰 香港 [商企]
 
 http=82.156.64.75:60010, fast-open=false, udp-relay=false, tag=🇨🇳 中国-北京(腾讯) [商企]
 http=59.110.15.193:7004, fast-open=false, udp-relay=false, tag=🇨🇳 中国-北京(阿里) [商企]
