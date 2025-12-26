@@ -1,3 +1,5 @@
+http://101.32.99.9:6006/
+
 http=208.180.238.40:3390, fast-open=false, udp-relay=false, tag=🇺🇸 美国-德州 [住宅]
 http=1.34.42.227:443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇨🇳台灣-台北
 http=220.134.146.88:443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇨🇳台灣-新竹
