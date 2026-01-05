@@ -5,7 +5,7 @@ http=220.134.146.88:443, over-tls=true, tls-verification=false, fast-open=false,
 http=103.127.250.158:3443, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰香港-中西區(商企-ADC)
 socks5=38.47.105.32:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
 https=79.130.213.181:4443, over-tls=true, udp-relay=false, tag=🇬🇷 希腊-克里特岛 [住宅]
-socks5=182.162.17.195:5555, username=123, password=123, fast-open=false, udp-relay=false, tag=🇵🇰 巴基斯坦
+socks5=182.162.17.195:5555, username=123, password=123, fast-open=false, udp-relay=false, tag=🇰🇷 韩国-首尔
 
 http=102.134.49.165:6005, fast-open=false, udp-relay=false, tag=🇯🇵 日本-东京 [住宅]
 http=211.75.210.107:1168, fast-open=false, udp-relay=false, tag=🇨🇳 台湾-台北 [住宅]
