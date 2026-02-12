@@ -1,3 +1,5 @@
+socks5=38.34.25.98:2080, username=123, password=123, fast-open=false, udp-relay=false, tag=🇺🇸 美国
+socks5=72.135.243.159:9090, username=123, password=123, fast-open=false, udp-relay=false, tag=🇺🇸 美国
 socks5=8.217.0.93:1080, username=1111, password=1111, fast-open=false, udp-relay=false, tag=🇭🇰香港
 socks5=8.217.0.62:1080, username=123456, password=123456, fast-open=false, udp-relay=false, tag=🇭🇰香港
 socks5=8.211.167.27:1111, username=1111, password=1111, fast-open=false, udp-relay=false, tag=🇯🇵 日本
